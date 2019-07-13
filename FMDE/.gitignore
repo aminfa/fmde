@@ -1,2 +1,5 @@
 /bin/
 /xtend-gen/
+
+.idea
+out
